@@ -13,8 +13,8 @@
     "_phase:build": "compile transpile src",
     "_phase:validate": "compile validate",
     "_phase:format": "format src",
-    "build": "compile",
-    "build:watch": "compile",
+    "build": "node init && compile",
+    "build:watch": "node init && compile",
     "format": "format src"
   },
   "peerDependencies": {},
