@@ -113,3 +113,6 @@ dev/tool/history.json
 /combined_dependencies
 .tmp
 ws-tests/docker-compose.override.yml
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
